@@ -21,8 +21,8 @@ Lehetséges kimenetelek:
 
 ## Képek a játékból
 
-<img alt="mobilprogbeadando1" src="https://github.com/adsz26/MobilprogBeadando2022/assets/100309542/e20bb335-28e1-4755-a3a1-15a7d8f50187" width="270" height="585">
-<img alt="mobilprogbeadando2" src="https://github.com/adsz26/MobilprogBeadando2022/assets/100309542/c83508eb-380d-4685-9274-e9f72582880d" width="270" height="585">
-<img alt="mobilprogbeadando3" src="https://github.com/adsz26/MobilprogBeadando2022/assets/100309542/76f241c5-1d03-476b-81c7-5f20e672cf4d" width="270" height="585">
-<img alt="mobilprogbeadando4" src="https://github.com/adsz26/MobilprogBeadando2022/assets/100309542/e50974b9-2989-44be-9113-691f2a74112e" width="270" height="585">
-<img alt="mobilprogbeadando5" src="https://github.com/adsz26/MobilprogBeadando2022/assets/100309542/7c13e7f7-7c7a-4819-b7f2-8ed4435668f7" width="270" height="585">
+<img alt="mobilprogbeadando1" src="https://github.com/adsz26/MobilprogBeadando2022/assets/100309542/ac47cd1c-840c-45fa-a345-1c809bdc6d2e" width="270" height="585">
+<img alt="mobilprogbeadando2" src="https://github.com/adsz26/MobilprogBeadando2022/assets/100309542/7b788282-2996-4ebe-a81e-30a6ca19ea37" width="270" height="585">
+<img alt="mobilprogbeadando3" src="https://github.com/adsz26/MobilprogBeadando2022/assets/100309542/37d037c0-808e-46fb-b5f8-050019edb633" width="270" height="585">
+<img alt="mobilprogbeadando4" src="https://github.com/adsz26/MobilprogBeadando2022/assets/100309542/4048553b-6b32-4913-9cb6-709803f75467" width="270" height="585">
+<img alt="mobilprogbeadando5" src="https://github.com/adsz26/MobilprogBeadando2022/assets/100309542/3fb23384-f48d-4010-8dd5-517c576aa49c" width="270" height="585">
